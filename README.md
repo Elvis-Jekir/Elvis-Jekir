@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a school project [Practice](https://github.com/Elvis-Jekir/git-practice.git)
 
-- 🌱 I’m currently learning **Python, MySql**
+- 🌱 I’m currently learning **Python, PostgreSQL**
 
 - 💬 Ask me about **Excel, Tableau & Python**
 
