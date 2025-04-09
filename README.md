@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Excel, Tableau & Python**
 
-- 📫 How to reach me **jekir90@gmail.com**
+- 📫 How to reach me **jekirelvis@gmail.com**
 
 - 📄 Know about my experiences [LINKEDIN](LINKEDIN)
 
